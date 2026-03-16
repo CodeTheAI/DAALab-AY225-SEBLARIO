@@ -49,6 +49,6 @@ For a graph with `V` nodes and `E` edges, Dijkstra with a binary heap runs in ap
 
 ## Challenges Faced During Assignment
 
-• Correct visulization of nodes in the node path showing overlaps or unclean paths
-• UI Layout of the program increasing efficiency
-• Tons of unecessary buttons reducing effiency and clarity
+- Correct visualization of nodes in the node path, especially avoiding overlaps and unclean paths.
+- UI layout adjustments to improve efficiency.
+- Removing unnecessary buttons to improve clarity and efficiency.
